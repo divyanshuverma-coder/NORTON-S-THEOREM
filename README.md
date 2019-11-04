@@ -9,7 +9,7 @@
 
 
 <h5> About the Experiment : </h5>
- In any active linear bilateral complex network, current through the load resistance can be calculated by the calculation of norton's equivalent resistance(R<sub>N</sub>).
+ In any active linear bilateral complex network, current through the load resistance can be calculated by the calculation of norton's equivalent resistance(R<sub>N</sub>).&nbsp
 
 <b>Name of Developer | <b> Dr. Anurag Chauhan
 :--|:--|
