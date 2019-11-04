@@ -8,7 +8,7 @@
 <b> Experiment|     <b> To verify norton's theorem in DC circuit .
 
 
-<h5> About the Experiment : </h5>
+### About the Experiment : 
  In any active linear bilateral complex network, current through the load resistance can be calculated by the calculation of norton's equivalent resistance(R<sub>N</sub>) and norton's equivalent current(I<sub>N</sub>).&nbsp
 
 <b>Name of Developer | <b> Dr. Anurag Chauhan
