@@ -86,7 +86,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 <br>
 
 Sr. No |	What Students will do?| What Simulator will do?| Purpose of the task
-:--|:--|:--------------------------------|-------------
+:--|:--|:----|--------------------------------------------------------------------------------------
 1.|  Student will click on start button | Simulator will show the start simulator button | To start the simulator
 2.|Student will fill in blanks for right answer with respect to statement | Simulator will show the statements with empty boxes to fill in the blanks. If the ans is correct,simulator will take to next page, if not ,a message saying retry will appear. If the answer is again wrong, the simulator will prompt the hint saying read the theory and again take the simulator.| To remember Norton's Theorem , KCL and KVL.
 3.| Student will drag and drop the images against the circuit components given .|Simulator will shoe the name of circuit component along with random images of circuit components.|To identify various electrical circuit components.
