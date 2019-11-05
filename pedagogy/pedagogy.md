@@ -62,14 +62,27 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 Read the theory and comprehend the concepts related to the experiment.
 <br>
 
+
+
+Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Action Verb
+:--|:--|:--|:-:
+1.| State Norton's Theorem, Kirchhoff's current Law(KCL) and Kirchhhoff's Voltage Law(KVL). |Retrieve/Recall the statements of KCL/KVL and Norton's Theorem. | State
+2.| Identify the circuit components such as resistor, ammeter, voltmeter, multimeter etc. and it's use.  | Apply| Identify
+3.| Calculate Norton's Equivalent Resistance (Rn), Norton's Equivalent Current(In) and load Current(Il).|Apply | Calculate
+4.| Compare the load  current in the given circuit obtained by Norton's Theorem to KVL/KCL. | Analyse | Compare
+
+
+
+
+
+
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.|State Norton's Theorem, Kirchhoff's current Law(KCL) and Kirchhhoff's Voltage Law(KVL). | Retrieve/Recall the statements of KCL/KVL and Norton's Theorem.
- | <div align="justify"> What is datatype of a queue?<br> a) Abstract        b) Integer         <br> c)Float                     d) Double
-2.| Identify the circuit components such as resistor, ammeter, voltmeter, multimeter etc. and it's use. | He will click the enqueue button | <div align="justify">The essential condition that is <br> checked before insertion in a <br> queue is?<br> a) Underflow    b) Overflow<br> c) Rear value     d) Front value
-3.| Calculate Norton's Equivalent Resistance (Rn), Norton's Equivalent Current(In) and load Current(Il). | He will click the dequeue button |<div align="justify"> The essential condition that is <br> checked before deletion from a <br> queue is? <br> a) Underflow    b) Overflow <br> c) Rear value     d) Front value
+1.|State Norton's Theorem, Kirchhoff's current Law(KCL) and Kirchhhoff's Voltage Law(KVL). | Retrieve/Recall the statements of KCL/KVL and Norton's Theorem. |  rjhffubfhebu?<br> a) Abstract        b) Integer         <br> c)Float                    d) Double
+2.| Identify the circuit components such as resistor, ammeter, voltmeter, multimeter etc. and it's use. | He will click the enqueue button | The essential condition that is <br> checked before insertion in a <br> queue is?<br> a) Underflow    b) Overflow<br> c) Rear value     d) Front value
+3.| Calculate Norton's Equivalent Resistance (Rn), Norton's Equivalent Current(In) and load Current(Il). | He will click the dequeue button | The essential condition that is <br> checked before deletion from a <br> queue is? <br> a) Underflow    b) Overflow <br> c) Rear value     d) Front value
 4.| Compare the load  current in the given circuit obtained by Norton's Theorem to KVL/KCL.
-| He will click the dequeue button |<div align="justify"> The essential condition that is <br> checked before deletion from a <br> queue is? <br> a) Underflow    b) Overflow <br> c) Rear value     d) Front value
+| He will click the dequeue button | The essential condition that is <br> checked before deletion from a <br> queue is? <br> a) Underflow    b) Overflow <br> c) Rear value     d) Front value
 
 
 
