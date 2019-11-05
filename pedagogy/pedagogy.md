@@ -66,7 +66,7 @@ Read the theory and comprehend the concepts related to the experiment.
 
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
-:--|:--|:--|:-------------------------
+:--|:--|:--|:-----------------
 1.|State Norton's Theorem, Kirchhoff's current Law(KCL) and Kirchhhoff's Voltage Law(KVL). | Retrieve/Recall the statements of KCL/KVL and Norton's Theorem. | <p >The Norton current is the_____?</p> <p>a)Short circuit current </p><p> b)Open circuit current </p>       <p>c)Open circuit and short circuit</p>      <p>     d)Neither open circuit nor short circuit current</p>
 2.| Identify the circuit components such as resistor, ammeter, voltmeter, multimeter etc. and it's use. | Retrieve/Recall the various circuit components such as resistor, ammeter, voltmeter. |  Norton's Theorem is true for _____  <br> a)Liner networks   <br>b)Non-Liner networks   <br>c)Both liner networks and nonliner networks  <br>d)Neither liner networks nor nonliner networks
 3.| Calculate Norton's Equivalent Resistance (Rn), Norton's Equivalent Current(In) and load Current(Il). |Calculation of Norton's Equivalent Resistance (Rn) Norton's Equivalent current (In)and load current (Il). | The expresion of Norton's current (In)in the circuit shown below is? <br> a)V/Z1 <br>  b)V/Z2 <br>       c)V(Z2/(Z1+Z2)) <br>    d)VZ1(Z1+Z2)
@@ -86,7 +86,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 <br>
 
 Sr. No |	What Students will do?| What Simulator will do?| Purpose of the task
-:--|:--|:----|--------------------------------------------------------------------------------------
+:--|:--|:--|:--
 1.|  Student will click on start button | Simulator will show the start simulator button | To start the simulator
 2.|Student will fill in blanks for right answer with respect to statement | Simulator will show the statements with empty boxes to fill in the blanks. If the ans is correct,simulator will take to next page, if not ,a message saying retry will appear. If the answer is again wrong, the simulator will prompt the hint saying read the theory and again take the simulator.| To remember Norton's Theorem , KCL and KVL.
 3.| Student will drag and drop the images against the circuit components given .|Simulator will shoe the name of circuit component along with random images of circuit components.|To identify various electrical circuit components.
