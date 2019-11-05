@@ -85,8 +85,16 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 #### 4. Simulator Interactions:
 <br>
 
-What Students will do? |	What Simulator will do?	| Purpose of the task
-:--|:--|:-:
-1. | The student will take elements for input in a <br> queue. | Simulator will store the values <br> of the elements| <div align="justify"> Student will be able to make <br> a queue
-2. | The student will click the insertion button. | Simulator will perform the  <br> insertion operation | <div align="justify"> Student will learn how <br> insertion is carried out in a <br> queue
-3. | The student will click the deletion button.  | Simulator will perform the <br> deletion operation | <div align="justify"> Student will acquire <br> knowledge about the  <br> deletion operation in a <br> queue.
+Sr. No |	What Students will do?| What Simulator will do?| Purpose of the task
+:--|:--|:--|:-:
+1.| State Norton's Theorem, Kirchhoff's current Law(KCL) and Kirchhhoff's Voltage Law(KVL). | Remember | State
+2.| Identify the circuit components such as resistor, ammeter, voltmeter, multimeter etc. and it's use.  | Apply| Identify
+3.| Calculate Norton's Equivalent Resistance (Rn), Norton's Equivalent Current(In) and load Current(Il).|Apply | Calculate
+4.| Compare the load  current in the given circuit obtained by Norton's Theorem to KVL/KCL. | Analyse | Compare
+
+
+
+
+
+
+
