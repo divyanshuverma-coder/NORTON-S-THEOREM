@@ -91,10 +91,9 @@ Sr. No |	What Students will do?| What Simulator will do?| Purpose of the task
 2.|Student will fill in blanks for right answer with respect to statement | Simulator will show the statements with empty boxes to fill in the blanks. If the ans is correct,simulator will take to next page, if not ,a message saying retry will appear. If the answer is again wrong, the simulator will prompt the hint saying read the theory and again take the simulator.| To remember Norton's Theorem , KCL and KVL.
 3.| Student will drag and drop the images against the circuit components given .
 |Simulator will shoe the name of circuit component along with random images of circuit components.|To identify various electrical circuit components.
-4.| Student will input the values for DC supply(V1), resistors(R1,R2) and load resistor Rl.| Simulator will show complex circuit with numerical input boxes. |  Initiate the interaction with the experimental set-up.
+4.| Student will input the values for DC supply(V1), resistors(R1,R2) and load resistor Rl.|Simulator will show complex circuit with numerical input boxes.|Initiate the interaction with the experimental set-up.
 5.| Student will calculate the value of Rn and In and input them in the boxes given along with Rl. | Simulator will show calculate button if any of the values are wrong ,hints will appear as a prompt in the form of formula for Rn and In. If Rl value is wrong ,the user will be given Rl value as a hint.Wrong values are highlighted in red and right values will be highlighted in green(box).|To get the required values of Rn, In and R. 
 6.| Student will construct Norton's equivalent circuit and click submit button. |Simulator will show the Norton's equivalent circuit with numerical input box. | To construct Norton's equivalent circuit 
- 
 7.|Student will click on calculate Il button. | simulator will give the value of load current(Il).| To calculate load current(Il).
 
 
