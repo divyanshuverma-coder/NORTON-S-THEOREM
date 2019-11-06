@@ -18,6 +18,35 @@ In electrical engineering , the most important parameter is to calculate the val
      single current source equivalent in which Norton's  equivalent current (In) is connected in parallel 
 	 with parallel combination of Norton's equivalent resistance (Rn) and load resistance (Rl)."The Norton's equivalent circuit  of any complex circuit can be converted  into single current source 
      equivalent as shown in figure
+     fig 1.1: Norton's equivalent circuit 
+
+	          In order to make Norton's equivalent circuit, it is essential to understand the  calculation of Norton's
+			  equivalent resistance (Rn) and Norton's equivalent current (In). Stepwise calculation of (Rn) and
+			  (In) are as follows :
+			  
+			 Steps for Norton's Equivalent Resistance (Rn) 
+			  1. Open the terminals of load.
+			  2. Short circuit the voltage source and open circuit the current source. 
+			  3. calculate the equivalent resistance from the open end load terminals. This will be Norton's 
+			     equivalent resistance (Rn).
+				 
+				
+		 	 Steps for Norton's Equivalent current (In) 
+			  1. Short circuit the load terminals.
+			  2. calculate this short circuit current. This will be Norton's equivalent current (In).
+			  
+			  Steps for Load current (Il) 
+			  1. Construct Norton's equivalent circuit by connecting Rn, In and Rl in parallel.
+			  
+			          Figure
+			  
+			  
+			  2. Calculate load current by current division rule:
+			  
+			           Il = (Rn/Rn+Rl)In
+					   
+				 Further load current can also be calculate by using KCL/KVL. Finally load current 
+				 obtained by Norton's Theorem will be compared with KCL/KVL.
 
 #### 
 ### 3. User objective goals<br>
