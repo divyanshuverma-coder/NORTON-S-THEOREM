@@ -84,8 +84,16 @@ Student will get marks based on the assessment questions.
 
 Formula 1.<br>  <p align="center">
   R<sub>N</sub> = R<sub>1</sub>R<sub>2</sub>/R<sub>1</sub>+R<sub>2</sub><br>
-</p>R<sub>N</sub> = R<sub>1</sub>R<sub>2</sub>/R<sub>1</sub>+R<sub>2</sub><br>
-Formula 2.<br> I<sub>N</sub> = V/R<sub>1</sub><br>
-Formula 3.<br> For Norton,<br> I<sub>L<sub>1</sub></sub> = (R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub><br>
-Formula 4.<br> For KCL/KVL,<br> I<sub>L<sub>2</sub></sub> = (V.R<sub>2</sub>)/(R<sub>1</sub>.R<sub>2</sub>+R<sub>1</sub>.R<sub>L</sub>+R<sub>2</sub>.R<sub>L</sub>)<br>
-Formula 5. Percentage Error = (|I<sub>L<sub>2</sub></sub>| -|I<sub>L<sub>1</sub></sub>|)/|I<sub>L<sub>2</sub></sub>|<br>
+</p>
+Formula 2.<br> <p align="center">
+I<sub>N</sub> = V/R<sub>1</sub><br>
+</p>
+Formula 3.<br> For Norton,<br> <p align="center">
+  I<sub>L<sub>1</sub></sub> = (R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub><br>
+</p>
+Formula 4.<br> For KCL/KVL,<br> <p align="center">
+ I<sub>L<sub>2</sub></sub> = (V.R<sub>2</sub>)/(R<sub>1</sub>.R<sub>2</sub>+R<sub>1</sub>.R<sub>L</sub>+R<sub>2</sub>.R<sub>L</sub>)
+</p><br>
+Formula 5. <p align="center">
+  Percentage Error = (|I<sub>L<sub>2</sub></sub>| -|I<sub>L<sub>1</sub></sub>|)/|I<sub>L<sub>2</sub></sub>|<br>
+</p>
