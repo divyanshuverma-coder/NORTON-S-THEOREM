@@ -33,8 +33,7 @@ In electrical engineering , the most important parameter is to calculate the val
 			  Steps for Load current (I<sub>L</sub>) <br>
 			  1. Construct Norton's equivalent circuit by connecting R<sub>N</sub>, I<sub>N</sub> and R<sub>L</sub> in parallel.
 	                   Figure<br>
-			  2. Calculate load current by current division rule:<br>
-			  <center> I<sub>L</sub> = (R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub></center><br>
+			  2. Calculate load current by current division rule:<br><center> I<sub>L</sub>(R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub></center><br>
 			  Further load current can also be calculate by using KCL/KVL. Finally load current 
 				 obtained by Norton's Theorem will be compared with KCL/KVL.<br>
 
