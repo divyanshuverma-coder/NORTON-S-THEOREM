@@ -34,10 +34,9 @@ In electrical engineering , the most important parameter is to calculate the val
 	                   Figure<br>
 			  2. Calculate load current by current division rule:
 			  <br>
-			  
-			  
-			  $$V=I*R$$
-			  
+			  <p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 			  <br><br>
 			  Further load current can also be calculate by using KCL/KVL. Finally load current 
 				 obtained by Norton's Theorem will be compared with KCL/KVL.<br>
