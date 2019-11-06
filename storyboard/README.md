@@ -78,8 +78,8 @@ Student will get marks based on the assessment questions.
 
 #### 2.7 Equations and Formulas:
 
-F1. Rn = R1R2/R1+R2<br>
-F2. In = V/R1<br>
+F1. R<sub>N</sub> = R<sub>1</sub>R<sub>2</sub>/R<sub>1</sub>+R<sub>2</sub><br>
+F2. I<sub>N</sub> = V/R<sub>1</sub><br>
 F3. Il)noton =I1= (Rn/RN+Rl)In<br>
 F4. Il)kvl/kcl=I2 = (V.R2)/(R1.R2+R1.Rl+R2.Rl)<br>
 F5. % error = (|I2| -|I1|)/|I2|<br>
