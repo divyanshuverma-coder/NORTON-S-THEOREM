@@ -6,13 +6,13 @@ Experiment 1:To Verify Norton's Theorem in DC Circuit.
 
  The basic idea of this experiment is to solve the value of load current in complex electric circuit
      using Norton's Theorem. This experiment will consists of DC supply, resistor, ammeter and voltmeter.
-	 This experiment will also give an idea about Norton's equivalent resistance (Rn) and Norton's equivalent 
-	 current (In). Based on the information of Rn and In, the value of  load current (I<sub>L</sub>) will be calculated 
+	 This experiment will also give an idea about Norton's equivalent resistance (R<sub>N</sub>) and Norton's equivalent 
+	 current (I<sub>N</sub>). Based on the information of R<sub>N</sub> and I<sub>N</sub>, the value of  load current (I<sub>L</sub>) will be calculated 
 		using Norton's equivalent circuit.
 ### 2. Story:
 In electrical engineering , the most important parameter is to calculate the value of electric current
      in the load. It is easy to calculate current in simple electric circuit by using KVL and KCL. However, it is very 
-	 difficult to calculate current in complex electric circuit using KVL/KCL. The      , suitable theorem
+	 difficult to calculate current in complex electric circuit using KVL/KCL. It refer's, suitable theorem
 	 or technique is required to address this issue.<br> Norton's theorem is one of the best suitable option to 
 	 calculate  current in complex electric current.<&nbsb>;
 	 Norton's Theorem for states that " Any active linear bilateral complex network can be converted into a
@@ -37,7 +37,7 @@ In electrical engineering , the most important parameter is to calculate the val
 			  Further load current can also be calculate by using KCL/KVL. Finally load current 
 				 obtained by Norton's Theorem will be compared with KCL/KVL.<br>
 
-#### 
+#### 2.1 Set the Visual Stage Description:
 ### 3. User objective goals<br>
 1. Enter the value of E and B (E/B=v).<br>2. Click the submit button.<br> 3. Observe the value of y,....,e/m.<br>4. Charge to mass ratio calculated after simulation.<br>5.Repeat the experiment and observe the value of e/m.
 
