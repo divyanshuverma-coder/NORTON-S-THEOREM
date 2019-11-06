@@ -82,7 +82,9 @@ Student will get marks based on the assessment questions.
 
 #### 2.7 Equations and Formulas:
 
-Formula 1.<br> R<sub>N</sub> = R<sub>1</sub>R<sub>2</sub>/R<sub>1</sub>+R<sub>2</sub><br>
+Formula 1.<br>  <p align="center">
+  R<sub>N</sub> = R<sub>1</sub>R<sub>2</sub>/R<sub>1</sub>+R<sub>2</sub><br>
+</p>R<sub>N</sub> = R<sub>1</sub>R<sub>2</sub>/R<sub>1</sub>+R<sub>2</sub><br>
 Formula 2.<br> I<sub>N</sub> = V/R<sub>1</sub><br>
 Formula 3.<br> For Norton,<br> I<sub>L<sub>1</sub></sub> = (R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub><br>
 Formula 4.<br> For KCL/KVL,<br> I<sub>L<sub>2</sub></sub> = (V.R<sub>2</sub>)/(R<sub>1</sub>.R<sub>2</sub>+R<sub>1</sub>.R<sub>L</sub>+R<sub>2</sub>.R<sub>L</sub>)<br>
