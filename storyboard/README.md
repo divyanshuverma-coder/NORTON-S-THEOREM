@@ -10,11 +10,11 @@ Experiment 1:To Verify Norton's Theorem in DC Circuit.
 	 current (In). Based on the information of Rn and In, the value of  load current (I<sub>L</sub>) will be calculated 
 		using Norton's equivalent circuit.
 ### 2. Story:
-<pre>In electrical engineering , the most important parameter is to calculate the value of electric current
+In electrical engineering , the most important parameter is to calculate the value of electric current
      in the load. It is easy to calculate current in simple electric circuit by using KVL and KCL. However, it is very 
 	 difficult to calculate current in complex electric circuit using KVL/KCL. The         , suitable theorem
 	 or technique is required to address this issue.<br> Norton's theorem is one of the best suitable option to 
-	 calculate  current in complex electric current.
+	 calculate  current in complex electric current.<&nbsb>;
 	 Norton's Theorem for states that " Any active linear bilateral complex network can be converted into a
      single current source equivalent in which Norton's  equivalent current (In) is connected in parallel 
 	 with parallel combination of Norton's equivalent resistance (Rn) and load resistance (Rl)."The Norton's equivalent circuit  of any complex circuit can be converted  into single current source 
@@ -36,7 +36,7 @@ Experiment 1:To Verify Norton's Theorem in DC Circuit.
 			  2. Calculate load current by current division rule:<br>
 			  <center>Il = (Rn/Rn+Rl)In</center<br>
 			  Further load current can also be calculate by using KCL/KVL. Finally load current 
-				 obtained by Norton's Theorem will be compared with KCL/KVL.<br></pre>
+				 obtained by Norton's Theorem will be compared with KCL/KVL.<br>
 
 #### 
 ### 3. User objective goals<br>
