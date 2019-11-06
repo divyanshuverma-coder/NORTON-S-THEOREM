@@ -80,6 +80,6 @@ Student will get marks based on the assessment questions.
 
 F1. R<sub>N</sub> = R<sub>1</sub>R<sub>2</sub>/R<sub>1</sub>+R<sub>2</sub><br>
 F2. I<sub>N</sub> = V/R<sub>1</sub><br>
-F3. Il)noton =I1= (Rn/RN+Rl)In<br>
+F3. For Norton, I<sub>L</sub> = (R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub><br>
 F4. Il)kvl/kcl=I2 = (V.R2)/(R1.R2+R1.Rl+R2.Rl)<br>
-F5. % error = (|I2| -|I1|)/|I2|<br>
+F5. Percentage Error = (|I<sub>2</sub>| -|I1<sub>1</sub>|)/|I<sub>2</sub>|<br>
