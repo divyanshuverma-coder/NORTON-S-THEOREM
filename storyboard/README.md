@@ -69,37 +69,17 @@ Q.3 Identify the symbol of resistor____,ammeter___, voltmeter_____ .<br>
 Q.4 Calculate equivalent resistence of the given circuit---------<br>
 Q.5 Calculte current in the 5 ohm resistence.------------<br>
 
+#### 2.5 Allow Pitfalls:
+No pitfalls allow.
+
+#### 2.6 Conclusion:
+Student will get marks based on the assessment questions.
 
 
+#### 2.7 Equations and Formulas:
 
-
-
-
-
-
-
-
-####
-
-
-### 4. Challenges and Questions
-##### 1.	What is the expression of the electric force on electron when it enters in a electric field?
-<br> <b> a)	F=eE  </b> 
-<br> b) F=ev 
-<br> c)	F=eB
-<br> d)	F=be
-<br> ANS:-A
-
-
-##### 2.	What is the value of e/m?
-<br> a)	1.75*10^11 C/Kg
-<br> b)	1.75*10^11 CKg
-<br> c)	1.75*10^11 Kg
-<br> <b>  d) 1.75*10^11 C </b>
-<br> ANS:-A
-
-
-### 5. Conclusion:
-####  Verification of mass ratio is done. 
-       a) Time period is determined.
-       b) Magnitude of Magnetic Field is also determined.
+F1. Rn = R1R2/R1+R2<br>
+F2. In = V/R1<br>
+F3. Il)noton =I1= (Rn/RN+Rl)In<br>
+F4. Il)kvl/kcl=I2 = (V.R2)/(R1.R2+R1.Rl+R2.Rl)<br>
+F5. % error = (|I2| -|I1|)/|I2|<br>
