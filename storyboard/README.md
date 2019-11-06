@@ -14,7 +14,7 @@ In electrical engineering , the most important parameter is to calculate the val
      in the load. It is easy to calculate current in simple electric circuit by using KVL and KCL. However, it is very 
 	 difficult to calculate current in complex electric circuit using KVL/KCL. It refer's, suitable theorem
 	 or technique is required to address this issue.<br> Norton's theorem is one of the best suitable option to 
-	 calculate  current in complex electric current.<&nbsb>;
+	 calculate  current in complex electric current.<br><br><br>;
 	 Norton's Theorem for states that " Any active linear bilateral complex network can be converted into a
      single current source equivalent in which Norton's  equivalent current (I<sub>N</sub>) is connected in parallel 
 	 with parallel combination of Norton's equivalent resistance (R<sub>N</sub>) and load resistance (R<sub>L</sub>)."The Norton's equivalent circuit  of any complex circuit can be converted  into single current source 
@@ -33,7 +33,8 @@ In electrical engineering , the most important parameter is to calculate the val
 			  Steps for Load current (I<sub>L</sub>) <br>
 			  1. Construct Norton's equivalent circuit by connecting R<sub>N</sub>, I<sub>N</sub> and R<sub>L</sub> in parallel.
 	                   Figure<br>
-			  2. Calculate load current by current division rule:<br><center> I<sub>L</sub>(R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub></center><br>
+			  2. Calculate load current by current division rule:<br>
+			  <text align center> I<sub>L</sub>(R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub></text align center><br>
 			  Further load current can also be calculate by using KCL/KVL. Finally load current 
 				 obtained by Norton's Theorem will be compared with KCL/KVL.<br>
 
@@ -80,6 +81,6 @@ Student will get marks based on the assessment questions.
 
 Formula 1.<br> R<sub>N</sub> = R<sub>1</sub>R<sub>2</sub>/R<sub>1</sub>+R<sub>2</sub><br>
 Formula 2.<br> I<sub>N</sub> = V/R<sub>1</sub><br>
-Formula 3.<br> For Norton,<br> I<sub>L</sub> = (R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub><br>
-Formula 4.<br> For KCL/KVL,<br> I<sub>2</sub> = (V.R<sub>2</sub>)/(R<sub>1</sub>.R<sub>2</sub>+R<sub>1</sub>.R<sub>1</sub>+R<sub>2</sub>.R<sub>1</sub>)<br>
-Formula 5. Percentage Error = (|I<sub>2</sub>| -|I<sub>2</sub>I<sub>1</sub>|)/|I<sub>2</sub>|<br>
+Formula 3.<br> For Norton,<br> I<sub>L<sub>1</sub></sub> = (R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub><br>
+Formula 4.<br> For KCL/KVL,<br> I<sub>L<sub>2</sub></sub> = (V.R<sub>2</sub>)/(R<sub>1</sub>.R<sub>2</sub>+R<sub>1</sub>.R<sub>L</sub>+R<sub>2</sub>.R<sub>L</sub>)<br>
+Formula 5. Percentage Error = (|I<sub>L<sub>2</sub></sub>| -|I<sub>L<sub>1</sub></sub>|)/|I<sub>L<sub>2</sub></sub>|<br>
