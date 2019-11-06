@@ -35,7 +35,7 @@ In electrical engineering , the most important parameter is to calculate the val
 			  2. Calculate load current by current division rule:
 			  <br>
 			  <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  V = I*R
 </p>
 			  <br><br>
 			  Further load current can also be calculate by using KCL/KVL. Finally load current 
