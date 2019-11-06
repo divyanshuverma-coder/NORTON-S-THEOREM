@@ -63,11 +63,11 @@ In electrical engineering , the most important parameter is to calculate the val
 12. The correct value of I<sub>L</sub> and percentage error will display on the result window.<br>
 
 #### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-Q.1 The algebraic sum of all current meeting at node is zero.This statement is___ .
-Q.2 The algebraic sum of all voltages in closed circuit is zero. This statement is __ .
-Q.3 Identify the symbol of resistor____,ammeter___, voltmeter_____ .
-Q.4 Calculate equivalent resistence of the given circuit---------
-Q.5 Calculte current in the 5 ohm resistence.------------
+Q.1 The algebraic sum of all current meeting at node is zero.This statement is___ .<br>
+Q.2 The algebraic sum of all voltages in closed circuit is zero. This statement is __ .<br>
+Q.3 Identify the symbol of resistor____,ammeter___, voltmeter_____ .<br>
+Q.4 Calculate equivalent resistence of the given circuit---------<br>
+Q.5 Calculte current in the 5 ohm resistence.------------<br>
 
 
 
