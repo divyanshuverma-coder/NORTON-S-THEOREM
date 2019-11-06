@@ -38,7 +38,29 @@ In electrical engineering , the most important parameter is to calculate the val
 				 obtained by Norton's Theorem will be compared with KCL/KVL.<br>
 
 #### 2.1 Set the Visual Stage Description:
-### 3. User objective goals<br>
+ On screen, there are two buttons namely 'start' and 'simulator' button. Before these two button, question of the task will be displayed. Then one component block which is having various electrical components. Further there is drawing window displaying on the screen where student will drop and down the components. Then other window will appears name as result window where Norton's equivalent circuit will display and two blank boxes for R<sub>N</sub> and I<sub>N</sub> values are insertedby the student. At the bottom side of the screen, 'submit' button is placed. When student will click on this button, result window will appear. In this window, two blank boxes for I<sub>L</sub> and percentage error will be shown where student will submit the value of I<sub>L</sub> and persentage error in these boxes. At the bottom of this window, 'calculate I<sub>N</sub>' button and'calculate error' button is placed. where student will click on these buttons,the correct value of I<sub>L</sub> and percentage error will display in the result window.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 3. User objective goals<br>
 1. Enter the value of E and B (E/B=v).<br>2. Click the submit button.<br> 3. Observe the value of y,....,e/m.<br>4. Charge to mass ratio calculated after simulation.<br>5.Repeat the experiment and observe the value of e/m.
 
 
