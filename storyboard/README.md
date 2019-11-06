@@ -21,8 +21,8 @@ In electrical engineering , the most important parameter is to calculate the val
      fig 1.1: Norton's equivalent circuit <br> In order to make Norton's equivalent circuit, it is essential to understand the  calculation of Norton's
 			  equivalent resistance (Rn) and Norton's equivalent current (In). Stepwise calculation of (Rn) and
 			  (In) are as follows :
-			  Steps for Norton's Equivalent Resistance (Rn) 
-			  1. Open the terminals of load.
+			  Steps for Norton's Equivalent Resistance (Rn) <br>
+			  1. Open the terminals of load.<br>
 			  2. Short circuit the voltage source and open circuit the current source. 
 			  3. calculate the equivalent resistance from the open end load terminals. This will be Norton's 
 			     equivalent resistance (Rn).
