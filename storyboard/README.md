@@ -49,6 +49,13 @@ In electrical engineering , the most important parameter is to calculate the val
 5. Student will get the marks as per the assissment questions.<br>
 
 
+####2.3 Set the Pathway Activities:
+
+####
+####
+####
+
+
 ### 4. Challenges and Questions
 ##### 1.	What is the expression of the electric force on electron when it enters in a electric field?
 <br> <b> a)	F=eE  </b> 
