@@ -37,6 +37,7 @@ In electrical engineering , the most important parameter is to calculate the val
 			  <p align="center">
   I<sub>L</sub> = (R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub>
 </p>
+b=frac{a/b}
 			  <br><br>
 			  Further load current can also be calculate by using KCL/KVL. Finally load current 
 				 obtained by Norton's Theorem will be compared with KCL/KVL.<br>
