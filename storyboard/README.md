@@ -79,7 +79,7 @@ Q.4 Calculate equivalent resistence of the given circuit---------<br>
 Q.5 Calculte current in the 9 ohm resistence.------------<br>
 ![A test image](https://github.com/divyanshuverma-coder/NORTON-S-THEOREM/blob/master/storyboard/circuit%204.jpg)
  <p align="center">Figure 2.2</p>
-
+Q.6 If the calculated value of R<sub>N</sub> and I<sub>N</sub> is wrong then hint will appear.<br>
 #### 2.5 Allow Pitfalls:
 No pitfalls allow.
 
@@ -89,18 +89,23 @@ Student will get marks based on the assessment questions.
 
 #### 2.7 Equations and Formulas:
 
-Formula 1.<br>  <p align="center">
+1. Formula for Norton's Equivalent Resistance. <br>  <p align="center">
   R<sub>N</sub> = R<sub>1</sub>R<sub>2</sub>/R<sub>1</sub>+R<sub>2</sub><br>
 </p>
-Formula 2.<br> <p align="center">
-I<sub>N</sub> = V/R<sub>1</sub><br>
+    Where R<sub>1</sub> and R<sub>2</sub> are given resistance.<br>
+ 2. Formula for Norton's Equivalent Current <br> <p align="center">
+	I<sub>N</sub> = V/R<sub>1</sub><br>
+	Where V is value of supply voltage.<br>
 </p>
-Formula 3.<br> For Norton,<br> <p align="center">
+3. Formula For load current (I<sub>L<sub>1</sub></sub>) using Norton's Theorem <br> For Norton,<br> <p align="center">
   I<sub>L<sub>1</sub></sub> = (R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub><br>
+	Where R<sub>N</sub> = Norton's Equivalent Resistance.<br>
+            R<sub>L</sub> = LOad Resistance.<br>
+            I<sub>N</sub> = Norton's Equivalent Current.<br>
 </p>
-Formula 4.<br> For KCL/KVL,<br> <p align="center">
+ 4. Formula for load current using KCL/KVL <br> For KCL/KVL,<br> <p align="center">
  I<sub>L<sub>2</sub></sub> = (V.R<sub>2</sub>)/(R<sub>1</sub>.R<sub>2</sub>+R<sub>1</sub>.R<sub>L</sub>+R<sub>2</sub>.R<sub>L</sub>)
-</p><br>
-Formula 5. <p align="center">
+	</p><br>
+ 5. Formula for percentage error  <p align="center">
   Percentage Error = (|I<sub>L<sub>2</sub></sub>| -|I<sub>L<sub>1</sub></sub>|)/|I<sub>L<sub>2</sub></sub>|<br>
 </p>
