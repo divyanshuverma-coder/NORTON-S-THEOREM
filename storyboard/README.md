@@ -101,12 +101,12 @@ Student will get marks based on the assessment questions.
 3. Formula For load current (I<sub>L<sub>1</sub></sub>) using Norton's Theorem <br> For Norton,<br> <p align="center">
   I<sub>L<sub>1</sub></sub> = (R<sub>N</sub>/R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub><br>
 	Where R<sub>N</sub> = Norton's Equivalent Resistance.<br>
-            R<sub>L</sub> = LOad Resistance.<br>
+            R<sub>L</sub> = Load Resistance.<br>
             I<sub>N</sub> = Norton's Equivalent Current.<br>
 </p>
  4. Formula for load current using KCL/KVL <br> For KCL/KVL,<br> <p align="center">
  I<sub>L<sub>2</sub></sub> = (V.R<sub>2</sub>)/(R<sub>1</sub>.R<sub>2</sub>+R<sub>1</sub>.R<sub>L</sub>+R<sub>2</sub>.R<sub>L</sub>)
 	</p><br>
  5. Formula for percentage error  <p align="center">
-  Percentage Error = (|I<sub>L<sub>2</sub></sub>| -|I<sub>L<sub>1</sub></sub>|)/(|I<sub>L<sub>2</sub></sub>*100|)<br>
+  Percentage Error = (|I<sub>L<sub>2</sub></sub>| -|I<sub>L<sub>1</sub></sub>|)/(|I<sub>L<sub>2</sub></sub>|)*100<br>
 </p>
