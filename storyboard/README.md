@@ -79,7 +79,7 @@ Q.4 Calculate equivalent resistance of the given circuit---------<br>
 Q.5 Calculte current in the 9 ohm resistance.------------<br>
 <img src="https://github.com/divyanshuverma-coder/NORTON-S-THEOREM/blob/master/storyboard/circuit%204.jpg">
  <p align="center">Figure 2.2</p>
-Q.6 If the calculated value of R<sub>N</sub> and I<sub>N</sub> is wrong then hint will appear.<br>
+ If the calculated value of R<sub>N</sub> and I<sub>N</sub> is wrong then hint will appear.<br>
 
 #### 2.5 Allow Pitfalls:
 No pitfalls allow.
@@ -108,5 +108,5 @@ Student will get marks based on the assessment questions.
  I<sub>L<sub>2</sub></sub> = (V.R<sub>2</sub>)/(R<sub>1</sub>.R<sub>2</sub>+R<sub>1</sub>.R<sub>L</sub>+R<sub>2</sub>.R<sub>L</sub>)
 	</p><br>
  5. Formula for percentage error  <p align="center">
-  Percentage Error = (|I<sub>L<sub>2</sub></sub>| -|I<sub>L<sub>1</sub></sub>|)/|I<sub>L<sub>2</sub></sub>|<br>
+  Percentage Error = (|I<sub>L<sub>2</sub></sub>| -|I<sub>L<sub>1</sub></sub>|)/(|I<sub>L<sub>2</sub></sub>*100|)<br>
 </p>
