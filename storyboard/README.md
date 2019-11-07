@@ -50,11 +50,10 @@ Figure<br>
 
 
 #### 2.2 Set User Objectives & Goals:<br>
-1. To state Norton's Theorem, KCL and KVL for DC circuits.<br>
-2. To identify the circuit components.<br>
-3. Calculate Norton's equivalent resistence, Norton's equivalent current and load current.<br>
-4. Compare the load current in the given complex circuit obtained by Norton's theorem to KCL/KVL.<br>
-5. Student will get the marks as per the assissment questions.<br>
+1. This experiment provides the principle of Norton's Theorem in DC circuits.<br>
+2. This experiment also give the information of circuit components ( Resistance, Ammeter, Voltmeter).<br>
+3. Based on the experiment, user can also calculate Norton's equivalent resistance, Norton's equivalent current and load current.<br>
+4. User can also understand the calculation of percentage error.<br>
 
 #### 2.3 Set the Pathway Activities:
 1. Click on start button.<br>
