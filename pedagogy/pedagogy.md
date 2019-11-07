@@ -44,7 +44,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 ###### Name of Instructional Strategy  :     <u> Expository </u>
 ###### Assessment Method: <u>Formative and Summative Assessment</u>
 
-<u> <b>Description: <br>
+<u> <b>Description:</b> <br>
 
 •	The student will then be asked a set of pre assessment questions. <br>
 •       The student will perform the experiment with the help of simulator. <br>
