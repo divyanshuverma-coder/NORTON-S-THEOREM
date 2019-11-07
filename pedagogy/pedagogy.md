@@ -25,7 +25,7 @@
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:--
 1.| State Norton's Theorem, Kirchhoff's Current Law (KCL) and Kirchhoff's Voltage Law (KVL). | Remember | State
-2.| Identify the circuit components such as resistor, ammeter, voltmeter, multimeter etc. and it's use.  | Apply| Identify
+2.| Identify the circuit __components__ such as resistor, ammeter, voltmeter, multimeter etc. and it's use.  | Apply| Identify
 3.| Calculate Norton's Equivalent Resistance (R<sub>N</sub>), Norton's Equivalent Current (I<sub>N</sub>) and load Current  (I<sub>L</sub>).|Apply | Calculate
 4.| Compare the load  current in the given circuit obtained by Norton's Theorem to KCL/KVL. | Analyse | Compare
 
