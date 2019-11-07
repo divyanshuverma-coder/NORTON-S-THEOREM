@@ -24,9 +24,9 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:--
-1.| State Norton's Theorem, Kirchhoff's Current Law(KCL) and Kirchhoff's Voltage Law(KVL). | Remember | State
+1.| State Norton's Theorem, Kirchhoff's Current Law (KCL) and Kirchhoff's Voltage Law (KVL). | Remember | State
 2.| Identify the circuit components such as resistor, ammeter, voltmeter, multimeter etc. and it's use.  | Apply| Identify
-3.| Calculate Norton's Equivalent Resistance (R<sub>N</sub>), Norton's Equivalent Current(I<sub>N</sub>) and load Current(I<sub>L</sub>).|Apply | Calculate
+3.| Calculate Norton's Equivalent Resistance (R<sub>N</sub>), Norton's Equivalent Current (I<sub>N</sub>) and load Current  (I<sub>L</sub>).|Apply | Calculate
 4.| Compare the load  current in the given circuit obtained by Norton's Theorem to KCL/KVL. | Analyse | Compare
 
 
@@ -67,10 +67,10 @@ Read the theory and comprehend the concepts related to the experiment.
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-------------------------
-1.|State Norton's Theorem, Kirchhoff's current Law(KCL) and Kirchhoff's Voltage Law(KVL). | Retrieve/Recall the statements of KCL/KVL and Norton's Theorem. | <p >The Norton current is the_____?</p> <p><b>a)Short circuit current </b></p><p> b)Open circuit current </p>       <p>c)Open circuit and short circuit</p>      <p>     d)Neither open circuit nor short circuit current</p>
+1.|State Norton's Theorem, Kirchhoff's current Law (KCL) and Kirchhoff's Voltage Law (KVL). | Retrieve/Recall the statements of KCL/KVL and Norton's Theorem. | <p >The Norton current is the_____?</p> <p><b>a)Short circuit current </b></p><p> b)Open circuit current </p>       <p>c)Open circuit and short circuit</p>      <p>     d)Neither open circuit nor short circuit current</p>
 2.| Identify the circuit components such as resistor, ammeter, voltmeter, multimeter etc. and it's use. | Retrieve/Recall the various circuit components such as resistor, ammeter, voltmeter. |  Identify the current component - such as resistance, ammeter, voltmeter etc. 
 3.| Calculate Norton's Equivalent Resistance (R<sub>N</sub>), Norton's Equivalent Current(I<sub>N</sub>) and load Current(I<sub>L</sub>). |Calculation of Norton's Equivalent Resistance (R<sub>N</sub>) Norton's Equivalent current (I<sub>N</sub>)and load current (I<sub>L</sub>). | The expresion of Norton's current (I<sub>N</sub>)in the circuit shown below is? <br> <b>a)V/Z1 </b><br>  b)V/Z2 <br>       c)V(Z2/(Z1+Z2)) <br>    d)VZ1(Z1+Z2)
-4.| Compare the load  current in the given circuit obtained by Norton's Theorem to KVL/KCL.|Calculation of load current (I<sub>L</sub>)in the given circuit using KCL/KVL | Find R. <br> a)5.9ohm <br>  b)17.2 ohm <br>  c)17.4 ohm <br>    <b>d)17.5  ohm</b>
+4.| Compare the load  current in the given circuit obtained by Norton's Theorem to KCL/KVL.|Calculation of load current (I<sub>L</sub>)in the given circuit using KCL/KVL | Calculate current in circuit in 4 ohm resistance. <br> a)5.9ohm <br>  b)17.2 ohm <br>  c)17.4 ohm <br>    <b>d)17.5  ohm</b>
 
 
 
