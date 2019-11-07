@@ -1,7 +1,7 @@
 ## Round 1
 <p align="center">
 
-<b>To Verify Norton's Theorem in DC Circuits </b> <a name="top"></a> <br>
+<b>To Verify Norton's Theorem in DC Circuits </b> <a name="top"></a> </br>
 </p>
 
 <b>Discipline | </b> Electrical Engineering
