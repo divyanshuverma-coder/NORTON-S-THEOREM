@@ -73,11 +73,11 @@ Figure<br>
 Q.1 The algebraic sum of all current meeting at node is zero.This statement is___ .<br>
 Q.2 The algebraic sum of all voltages in closed circuit is zero. This statement is __ .<br>
 Q.3 Identify the symbol of resistor____,ammeter___, voltmeter_____ .<br>
-Q.4 Calculate equivalent resistence of the given circuit---------<br>
+Q.4 Calculate equivalent resistance of the given circuit---------<br>
 ![A test image](https://github.com/divyanshuverma-coder/NORTON-S-THEOREM/blob/master/storyboard/circuit%203.jpg)
  <p align="center">Figure 2.1</p>
-Q.5 Calculte current in the 9 ohm resistence.------------<br>
-![A test image](https://github.com/divyanshuverma-coder/NORTON-S-THEOREM/blob/master/storyboard/circuit%204.jpg)
+Q.5 Calculte current in the 9 ohm resistance.------------<br>
+![A test image] (https://github.com/divyanshuverma-coder/NORTON-S-THEOREM/blob/master/storyboard/circuit%204.jpg)
  <p align="center">Figure 2.2</p>
 Q.6 If the calculated value of R<sub>N</sub> and I<sub>N</sub> is wrong then hint will appear.<br>
 
