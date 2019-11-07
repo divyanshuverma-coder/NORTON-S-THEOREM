@@ -32,9 +32,9 @@ In electrical engineering , the most important parameter is to calculate the val
 			  1. Short circuit the load terminals.<br>
 			  2. calculate this short circuit current. This will be Norton's equivalent current (I<sub>N</sub>).<br><br>
 			  Steps for Load current ( I<sub>L</sub> ) <br>
-			  1. Construct Norton's equivalent circuit by connecting R<sub>N</sub>, I<sub>N</sub> and R<sub>L</sub> are in parallel.
-	                   Figure<br>
-			   ![A test image].(https://github.com/divyanshuverma-coder/NORTON-S-THEOREM/blob/master/storyboard/circuit%202.jpg)
+			  1. Construct Norton's equivalent circuit by connecting R<sub>N</sub>, I<sub>N</sub> and R<sub>L</sub> are in parallel
+Figure<br>
+![A test image]()
 			   <p align="center">Figure 1.1</p>
 			  2. Calculate load current by current division rule:
 			  <br>
