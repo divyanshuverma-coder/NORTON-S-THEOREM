@@ -58,10 +58,10 @@ Figure<br>
 #### 2.3 Set the Pathway Activities:
 1. Click on start button.<br>
 2. Click on simulator button.<br>
-3. complete the task by answering the questions.<br>
+3. Complete the task by answering the questions.<br>
 4. Drag and drop  the ciruit from circuit window to drawing window.<br>
 5. Insert the values of circuit components.<br>
-6. Student will calculate the value of R<sub>N</sub> and I<sub>L</sub> manually and insert into the given boxes.<br>
+6. Student will calculate the value of R<sub>N</sub> and I<sub>N</sub> manually and insert into the given boxes.<br>
 7. Result window will appear to insure whether the nature of R<sub>N</sub> and I<sub>N</sub> is correct or not.<br>
 8. Further the Norton's equivalent circuit will display on the window.<br>
 9. Student will click on 'submit' button.<br>
@@ -74,7 +74,11 @@ Q.1 The algebraic sum of all current meeting at node is zero.This statement is__
 Q.2 The algebraic sum of all voltages in closed circuit is zero. This statement is __ .<br>
 Q.3 Identify the symbol of resistor____,ammeter___, voltmeter_____ .<br>
 Q.4 Calculate equivalent resistence of the given circuit---------<br>
+![A test image]()
+ <p align="center">Figure 2.1</p>
 Q.5 Calculte current in the 5 ohm resistence.------------<br>
+![A test image]()
+ <p align="center">Figure 2.2</p>
 
 #### 2.5 Allow Pitfalls:
 No pitfalls allow.
