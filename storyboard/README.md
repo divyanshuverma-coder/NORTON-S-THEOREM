@@ -19,7 +19,8 @@ In electrical engineering , the most important parameter is to calculate the val
      single current source equivalent in which Norton's  equivalent current (I<sub>N</sub>) is connected in parallel 
 	 with parallel combination of Norton's equivalent resistance (R<sub>N</sub>) and load resistance (R<sub>L</sub>)."The Norton's equivalent circuit  of any complex circuit can be converted  into single current source 
      equivalent as shown in figure</br>
-     https://github.com/divyanshuverma-coder/NORTON-S-THEOREM/blob/master/storyboard/circuit%201.jpg
+     ![alt text](https://github.com/divyanshuverma-coder/NORTON-S-THEOREM/blob/master/storyboard/circuit%201.jpg)
+     
    Norton's equivalent circuit <br> In order to make Norton's equivalent circuit, it is essential to understand the  calculation of Norton's
 			  equivalent resistance (R<sub>N</sub>) and Norton's equivalent current (I<sub>N</sub>). Stepwise calculation of (R<sub>N</sub>) and (I<sub>N</sub>) are as follows :<br><br>
 			  Steps for Norton's Equivalent Resistance (R<sub>N</sub>) <br>
