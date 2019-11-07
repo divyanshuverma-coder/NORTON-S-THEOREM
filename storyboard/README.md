@@ -74,7 +74,7 @@ Q.1 The algebraic sum of all current meeting at node is zero.This statement is__
 Q.2 The algebraic sum of all voltages in closed circuit is zero. This statement is __ .<br>
 Q.3 Identify the symbol of resistor____,ammeter___, voltmeter_____ .<br>
 Q.4 Calculate equivalent resistence of the given circuit---------<br>
-![A test image]()
+![A test image](https://github.com/divyanshuverma-coder/NORTON-S-THEOREM/blob/master/storyboard/circuit%203.jpg)
  <p align="center">Figure 2.1</p>
 Q.5 Calculte current in the 5 ohm resistence.------------<br>
 ![A test image]()
