@@ -80,6 +80,7 @@ Q.5 Calculte current in the 9 ohm resistence.------------<br>
 ![A test image](https://github.com/divyanshuverma-coder/NORTON-S-THEOREM/blob/master/storyboard/circuit%204.jpg)
  <p align="center">Figure 2.2</p>
 Q.6 If the calculated value of R<sub>N</sub> and I<sub>N</sub> is wrong then hint will appear.<br>
+
 #### 2.5 Allow Pitfalls:
 No pitfalls allow.
 
