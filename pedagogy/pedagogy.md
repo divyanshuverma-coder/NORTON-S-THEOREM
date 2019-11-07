@@ -69,8 +69,8 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 :--|:--|:--|:-------------------------
 1.|State Norton's Theorem, Kirchhoff's current Law (KCL) and Kirchhoff's Voltage Law (KVL). | Retrieve/Recall the statements of KCL/KVL and Norton's Theorem. | <p >The Norton current is the_____?</p> <p><b>a)Short circuit current </b></p><p> b)Open circuit current </p>       <p>c)Open circuit and short circuit</p>      <p>     d)Neither open circuit nor short circuit current</p>
 2.| Identify the circuit components such as resistor, ammeter, voltmeter, multimeter etc. and it's use. | Retrieve/Recall the various circuit components such as resistor, ammeter, voltmeter. |  Identify the current component - such as resistance, ammeter, voltmeter etc. 
-3.| Calculate Norton's Equivalent Resistance (R<sub>N</sub>), Norton's Equivalent Current(I<sub>N</sub>) and load Current(I<sub>L</sub>). |Calculation of Norton's Equivalent Resistance (R<sub>N</sub>) Norton's Equivalent current (I<sub>N</sub>)and load current (I<sub>L</sub>). | The expresion of Norton's current (I<sub>N</sub>)in the circuit shown below is? <br> <b>a)V/Z1 </b><br>  b)V/Z2 <br>       c)V(Z2/(Z1+Z2)) <br>    d)VZ1(Z1+Z2)
-4.| Compare the load  current in the given circuit obtained by Norton's Theorem to KCL/KVL.|Calculation of load current (I<sub>L</sub>)in the given circuit using KCL/KVL | Calculate current in circuit in 4 ohm resistance. <br> a)5.9ohm <br>  b)17.2 ohm <br>  c)17.4 ohm <br>    <b>d)17.5  ohm</b>
+3.| Calculate Norton's Equivalent Resistance (R<sub>N</sub>), Norton's Equivalent Current(I<sub>N</sub>) and load Current(I<sub>L</sub>). |Calculation of Norton's Equivalent Resistance (R<sub>N</sub>) Norton's Equivalent current (I<sub>N</sub>)and load current (I<sub>L</sub>). | The expresion of Norton's current (I<sub>N</sub>)in the circuit shown below is? <br> <b>a)34/29 </b><br>  b)60/53 <br>       c)55/41 <br>    d)None <br>
+4.| Compare the load  current in the given circuit obtained by Norton's Theorem to KCL/KVL.|Calculation of load current (I<sub>L</sub>)in the given circuit using KCL/KVL | Calculate current in circuit in 9 ohm resistance. <br> a)50/73 A <br>  b)90/73 A <br>  c)35/11 A <br>    d)None </b>
 
 
 
@@ -93,7 +93,7 @@ Sr. No |	What Students will do?| What Simulator will do?| Purpose of the task
 4.| Student will input the values for DC supply(V<sub>1</sub>), resistors(R<sub>1</sub>, R<sub>2</sub>) and load resistor R<sub>1</sub>.|Simulator will show complex circuit with numerical input boxes.|Initiate the interaction with the experimental set-up.
 5.| Student will calculate the value of R<sub>N</sub> and I<sub>N</sub> and input them in the boxes given along with R<sub>1</sub>. | Simulator will show calculate button if any of the values are wrong, hints will appear as a prompt in the form of formula for R<sub>N</sub> and I<sub>N</sub>. If R<sub>1</sub> value is wrong ,the user will be given R<sub>L</sub> value as a hint.Wrong values are highlighted in red and right values will be highlighted in green(box).|To get the required values of R<sub>N</sub>, I<sub>N</sub> and R<sub>L</sub>. 
 6.| Student will construct Norton's equivalent circuit and click submit button. |Simulator will show the Norton's equivalent circuit with numerical input box. | To construct Norton's equivalent circuit 
-7.|Student will click on calculate I<sub>L</sub> button. | simulator will give the value of load current(I<sub>L</sub>).| To calculate load current(I<sub>L</sub>).
+7.|Student will click on calculate I<sub>L</sub> button. | simulator will give the value of load current(I<sub>L</sub>).| To calculate load current (I<sub>L</sub>).
 
 
 
