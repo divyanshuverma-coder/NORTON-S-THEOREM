@@ -15,24 +15,24 @@ In electrical engineering , the most important parameter is to calculate the val
 	 difficult to calculate current in complex electric circuit using KVL/KCL. It refer's, suitable theorem
 	 or technique is required to address this issue.<br> Norton's theorem is one of the best suitable option to 
 	 calculate  current in complex electric current.<br><br>
-	 Norton's Theorem for states that " Any active linear bilateral complex network can be converted into a
+	 Norton's Theorem  states that " Any active linear bilateral complex network can be converted into a
      single current source equivalent in which Norton's  equivalent current (I<sub>N</sub>) is connected in parallel 
 	 with parallel combination of Norton's equivalent resistance (R<sub>N</sub>) and load resistance (R<sub>L</sub>)."The Norton's equivalent circuit  of any complex circuit can be converted  into single current source 
-     equivalent as shown in figure</br>
+     equivalent as shown in figure 1.</br>
      ![A test image](https://github.com/divyanshuverma-coder/NORTON-S-THEOREM/blob/master/storyboard/circuit%201.jpg)
      <p align="center">Figure 1</p>
    Norton's equivalent circuit <br> In order to make Norton's equivalent circuit, it is essential to understand the  calculation of Norton's
-			  equivalent resistance (R<sub>N</sub>) and Norton's equivalent current (I<sub>N</sub>). Stepwise calculation of (R<sub>N</sub>) and (I<sub>N</sub>) are as follows :<br><br>
-			  Steps for Norton's Equivalent Resistance (R<sub>N</sub>) <br>
+			  equivalent resistance ( R<sub>N</sub> ) and Norton's equivalent current ( I<sub>N</sub> ). Stepwise calculation of ( R<sub>N</sub> ) and ( I<sub>N</sub> ) are as follows :<br><br> 
+			  Steps for Norton's Equivalent Resistance ( R<sub>N</sub> ) <br>
 			  1. Open the terminals of load.<br>
 			  2. Short circuit the voltage source and open circuit the current source. <br>
 			  3. calculate the equivalent resistance from the open end load terminals. This will be Norton's 
-			     equivalent resistance (R<sub>N</sub>).<br><br>
-			Steps for Norton's Equivalent current (I<sub>N</sub>) <br>
+			     equivalent resistance ( R<sub>N</sub> ).<br><br>
+			Steps for Norton's Equivalent Current ( I<sub>N</sub> ) <br>
 			  1. Short circuit the load terminals.<br>
 			  2. calculate this short circuit current. This will be Norton's equivalent current (I<sub>N</sub>).<br><br>
-			  Steps for Load current (I<sub>L</sub>) <br>
-			  1. Construct Norton's equivalent circuit by connecting R<sub>N</sub>, I<sub>N</sub> and R<sub>L</sub> in parallel.
+			  Steps for Load current ( I<sub>L</sub> ) <br>
+			  1. Construct Norton's equivalent circuit by connecting R<sub>N</sub>, I<sub>N</sub> and R<sub>L</sub> are in parallel.
 	                   Figure<br>
 			  2. Calculate load current by current division rule:
 			  <br>
@@ -40,8 +40,8 @@ In electrical engineering , the most important parameter is to calculate the val
   I<sub>L</sub> = R<sub>N</sub>/(R<sub>N</sub>+R<sub>L</sub>)I<sub>N</sub>
 </p>
 			  <br><br>
-			  Further load current can also be calculate by using KCL/KVL. Finally load current 
-				 obtained by Norton's Theorem will be compared with KCL/KVL.<br>
+			  Further load current can also be calculated by using KCL/KVL. Finally load current 
+		obtained by Norton's Theorem will be compared with KCL/KVL.<br>
 
 #### 2.1 Set the Visual Stage Description:
  On screen, there are two buttons namely 'start' and 'simulator' button. Before these two button, question of the task will be displayed. Then one component block which is having various electrical components. Further there is drawing window displaying on the screen where student will drop and down the components. Then other window will appears name as result window where Norton's equivalent circuit will display and two blank boxes for R<sub>N</sub> and I<sub>N</sub> values are insertedby the student. At the bottom side of the screen, 'submit' button is placed. When student will click on this button, result window will appear. In this window, two blank boxes for I<sub>L</sub> and percentage error will be shown where student will submit the value of I<sub>L</sub> and persentage error in these boxes. At the bottom of this window, 'calculate I<sub>N</sub>' button and'calculate error' button is placed. where student will click on these buttons,the correct value of I<sub>L</sub> and percentage error will display in the result window.
