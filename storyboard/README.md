@@ -108,5 +108,5 @@ Student will get marks based on the assessment questions.
  I<sub>L<sub>2</sub></sub> = (V.R<sub>2</sub>)/(R<sub>1</sub>.R<sub>2</sub>+R<sub>1</sub>.R<sub>L</sub>+R<sub>2</sub>.R<sub>L</sub>)
 	</p><br>
  5. Formula for percentage error  <p align="center">
-  Percentage Error = (|I<sub>L<sub>2</sub></sub>| -|I<sub>L<sub>1</sub></sub>|)/(|I<sub>L<sub>2</sub></sub>|)*100<br>
+  Percentage Error =  {(|I<sub>L<sub>2</sub></sub>| -|I<sub>L<sub>1</sub></sub>|)/(|I<sub>L<sub>2</sub></sub>|)}*100<br>
 </p>
