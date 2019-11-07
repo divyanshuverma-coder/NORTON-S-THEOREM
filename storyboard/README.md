@@ -34,6 +34,8 @@ In electrical engineering , the most important parameter is to calculate the val
 			  Steps for Load current ( I<sub>L</sub> ) <br>
 			  1. Construct Norton's equivalent circuit by connecting R<sub>N</sub>, I<sub>N</sub> and R<sub>L</sub> are in parallel.
 	                   Figure<br>
+			   ![A test image].()
+			   <p align="center">Figure 1.1</p>
 			  2. Calculate load current by current division rule:
 			  <br>
 			  <p align="center">
