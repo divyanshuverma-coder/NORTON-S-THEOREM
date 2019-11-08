@@ -5,7 +5,7 @@
 <b>Discipline | <b>Electrical Engineering
 :--|:--|
 <b> Lab. | <b>Basic Electrical Lab
-<b> Experiment|     <b> To verify norton's theorem in DC circuit .
+<b> Experiment|     <b> To verify Norton's Theorem in DC Circuit .
 
 
 ### About the Experiment : 
